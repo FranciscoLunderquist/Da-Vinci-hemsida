@@ -1,11 +1,17 @@
-p{
-    margin: 40px auto;
-    max-width: 650px;
-    line-height: 1.6;
-    font-size: 18px;
-    padding: 0;
+body{
+	max-width: 800px;
+	margin: auto;
 }
+
 img{
-	float: right;
-	margin: 0px 0px 15px 15px;
+	width: 30%;
+	margin: auto;
+}
+
+h1{
+	text-align: center ;
+}
+
+footer{
+	text-align: center ;
 }
